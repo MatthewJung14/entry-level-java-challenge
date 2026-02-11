@@ -1,0 +1,62 @@
+[
+  {
+    "uuid": "f31ea0fb-0c9b-4b11-9585-b542392712ce",
+    "firstName": "Brenda",
+    "lastName": "Margquez",
+    "fullName": "Brenda Margquez",
+    "salary": 90000,
+    "age": 20,
+    "jobTitle": "Software Engineer",
+    "email": "brenda.margquez@example.com",
+    "contractHireDate": "2020-01-01T00:00:00Z",
+    "contractTerminationDate": null
+  },
+  {
+    "uuid": "d1ec13cd-c318-49ee-9cf2-60b4ccf72ec1",
+    "firstName": "Greg",
+    "lastName": "Johnson",
+    "fullName": "Greg Johnson",
+    "salary": 120000,
+    "age": 25,
+    "jobTitle": "Engineering Manager",
+    "email": "greg.johnson@example.com",
+    "contractHireDate": "2015-06-15T00:00:00Z",
+    "contractTerminationDate": null
+  },
+  {
+    "uuid": "14b990cc-006a-4d3c-847d-156fc480947b",
+    "firstName": "Nina",
+    "lastName": "Davis",
+    "fullName": "Nina Davis",
+    "salary": 75000,
+    "age": 25,
+    "jobTitle": "QA Analyst",
+    "email": "nina.davis@example.com",
+    "contractHireDate": "2021-03-10T00:00:00Z",
+    "contractTerminationDate": null
+  },
+  {
+    "uuid": "56f026a4-4e7a-462f-92fe-8599c99798b1",
+    "firstName": "Natalie",
+    "lastName": "Garcia",
+    "fullName": "Natalie Garcia",
+    "salary": 65000,
+    "age": 23,
+    "jobTitle": "Technical Support Specialist",
+    "email": "natalie.garcia@example.com",
+    "contractHireDate": "2022-09-01T00:00:00Z",
+    "contractTerminationDate": null
+  },
+  {
+    "uuid": "71707db3-1e77-494c-ae98-1de6e6910fc6",
+    "firstName": "Sydney",
+    "lastName": "Wilson",
+    "fullName": "Sydney Wilson",
+    "salary": 105000,
+    "age": 21,
+    "jobTitle": "Product Manager",
+    "email": "sydney.wilson@example.com",
+    "contractHireDate": "2018-11-20T00:00:00Z",
+    "contractTerminationDate": null
+  }
+]
