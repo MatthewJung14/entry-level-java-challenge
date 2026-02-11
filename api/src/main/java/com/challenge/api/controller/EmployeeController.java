@@ -23,7 +23,7 @@ public class EmployeeController {
 
     private final EmployeeService employeeService;
 
-    // Inject Service layer into the Controller layer. 
+    // Inject Service layer into the Controller layer.
     public EmployeeController(EmployeeService employeeService) {
         this.employeeService = employeeService;
     }
@@ -42,10 +42,9 @@ public class EmployeeController {
      * @param uuid Employee UUID
      * @return Requested Employee if exists
      */
-    // Pass in UUID using the path.
     @GetMapping("/{uuid}")
     public Employee getEmployeeByUuid(@PathVariable String uuid) {
-        
+
         // If a valid UUID is not passed, Spring throws an error before
         // this method is called. To prevent this, I made the parameter a string!
         UUID parsedUuid;
